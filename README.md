@@ -1,1 +1,1 @@
-Test
+<img src="icon.png" align="center" />
