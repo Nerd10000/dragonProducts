@@ -1,5 +1,5 @@
 <img src="./logo.png" align="right" />
 
-<span style="color:#ab56d6"> 
+<span style="color:purple"> 
 Dragon Product Project
 </span>
