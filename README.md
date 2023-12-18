@@ -1,5 +1,6 @@
 <img src="./logo.png"/>
 
-<span style="color: red"> 
-Dragon Product Project
-</span>
+#Dragon Product project
+
+
+**About the project**: ###The goal of this project that make quality __Minecraft__ plugins for free.
