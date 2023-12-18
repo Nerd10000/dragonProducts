@@ -13,5 +13,7 @@
 
 **This project was just **managed by** me* (Not the Minecraft server)*: That means __I solo develop Minecraft plugin,__ but I want to change this in the future.
 
+**Our roadmap** : It can change anytime so always best to check the roadmap every month.
+
 
 <img src="./roadmap.png"/>
